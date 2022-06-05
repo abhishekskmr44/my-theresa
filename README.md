@@ -11,13 +11,17 @@ It was built within a week during MASAI Construct Week.
  
 It has the essential basic functionalities like
 
-Login/Signup page
+1.)Login/Signup page
 
-Products page
+2.)Products page
 
-Data Fetching
+3.)Data Fetching
 
-Add to Cart functionality
+4.)Add to Cart functionality
+
+5.)Payment page
+
+Tech used is HTML, CSS, JAVASCRIPT(ES6)
 
 ![myt1](https://user-images.githubusercontent.com/20414667/172050497-67791450-c0e9-4fb0-9716-5ef475b9306c.JPG)
 
