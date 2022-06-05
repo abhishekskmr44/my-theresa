@@ -4,6 +4,21 @@ BLOG- https://medium.com/@abhisheksukumar/building-e-commerce-website-at-masai-s
 
 Google Drive- https://drive.google.com/file/d/11aZVaYJo3eXIT_Ke1i-IX81bUixa5sWO/view?usp=sharing
 
+Mytheresa is an online shopping destination for children, men and women's luxury clothing, bags, shoes, and accessories. 
+This project is a clone of the original website mytheresa.com
+
+It was built within a week during MASAI Construct Week.
+ 
+It has the essential basic functionalities like
+
+Login/Signup page
+
+Products page
+
+Data Fetching
+
+Add to Cart functionality
+
 ![myt1](https://user-images.githubusercontent.com/20414667/172050497-67791450-c0e9-4fb0-9716-5ef475b9306c.JPG)
 
 ![myt2](https://user-images.githubusercontent.com/20414667/172050579-eafbf464-c0b8-460b-b718-73b8866ed346.JPG)
